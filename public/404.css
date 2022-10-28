@@ -1,0 +1,22 @@
+html{
+    background: #CCCCCC;
+}
+body { 
+    height: 100%;
+}
+.parent {
+height: 100%;
+width: 100%;
+background: #CCCCCC;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.child {
+width: 20%;
+height: 50%;
+}
+p{
+    font-size: 100px;
+    color: #c82b28;
+}
